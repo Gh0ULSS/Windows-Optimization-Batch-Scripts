@@ -4,7 +4,7 @@ Batch scripts to clear up disk space and potentially makes windows run faster on
 # The Idea
 Batch scripts are efficent in a sense, run them with a click of your mouse instead of typing out commands on Windows CLI.
 
-# Tips on making your PC run faster
+### Tips on making your PC run faster
 
 Clear-up dust if you can. 
 
